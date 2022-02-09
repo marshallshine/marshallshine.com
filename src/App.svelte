@@ -50,7 +50,7 @@
         name="Intermediate Accounting"
         description="I have completed the two introductory accounting courses offered at MSU: Financial 
         Accounting and Managerial Accounting. Intermediate accounting involves an in-depth look into the 
-        financial statements, time value of money, and advanced concepts from each portion of the balance sheet such as inventory, long-term debt, and much more. 
+        financial statements, time value of money, and advanced concepts from each portion of the balance sheet such as inventory, long-term debt, cash and equivalents, stockholders' equity, and much more. 
         I also completed a project where I worked through the entire 
         accounting-cycle from transactions to journal entries, posting, trial balance, adjusting entries, 
         income statement, retained earnings, balance sheet, and closing entries"
