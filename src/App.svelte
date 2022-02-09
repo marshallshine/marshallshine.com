@@ -47,23 +47,22 @@
 
     <div class="coursework-container">
       <CourseworkCard
-        name="Intermediate Accounting I"
+        name="Intermediate Accounting"
         description="I have completed the two introductory accounting courses offered at MSU: Financial 
-        Accounting and Managerial Accounting. Intermediate Accounting I is the first major-specific course 
-        in the Accounting degree program that I have completed. This involved an in-depth look into the 
-        financial statements, time value of money, inventory methods, cash and cash equivalents, intangibles, 
-        and many more accounting concepts. I also completed a project where I worked through the entire 
+        Accounting and Managerial Accounting. Intermediate accounting involves an in-depth look into the 
+        financial statements, time value of money, and advanced concepts from each portion of the balance sheet such as inventory, long-term debt, and much more. 
+        I also completed a project where I worked through the entire 
         accounting-cycle from transactions to journal entries, posting, trial balance, adjusting entries, 
         income statement, retained earnings, balance sheet, and closing entries"
       />
       <CourseworkCard
         name="Database Management Systems Concepts and Design"
         description="This class included an introduction to database management systems, in particular 
-        relational databases. In this course I learned how to create Entity-Relationship Diagrams using 
-        crows-foot notation. I also learned about the normalization of data, the different normal forms, 
-        keys, and all of the expected best practices of managing database management systems. Most importantly, 
-        I learned how to use SQL to query data and create databases, including basic data analysis 
-        using joins and SQL selectors. Using MySQL I was able to create databases based off of business logic, 
+        relational databases. In this course I learned how to design Entity-Relationship Diagrams using 
+        crows-foot notation. I also learned about the normalization of data, keys, and all of the expected 
+        best practices of managing database management systems. 
+        I used MySQL to query data and create databases, including basic data analysis 
+        using joins and selectors. Using MySQL I was able to create databases based off of business logic, 
         fill the rows with given information, and query the tables to find specific sets of data."
       />
       <CourseworkCard
@@ -79,11 +78,11 @@
       />
       <CourseworkCard
         name="Java Programming"
-        description="Intro to Java Programming is a class that focuses on the Java programming language and 
-        how to effectively utilize Object Oriented Programming. This included a multitude of hands-on activities 
-        where I was tasked with converting business logic into executable code. We used Swing to create GUIs for 
+        description="Intro to Java Programming is a class that focuses on Object Oriented Programming with Java.
+         This included a multitude of hands-on activities where I was tasked with converting business logic into 
+         executable code. We used Swing to create GUIs for 
         the user, and I even used Swing on my own to create a Snake clone. You can download this project from 
-        <a href='https://github.com/marshallshine/Snake-Game' target='_blank'> here </a>and compile and execute 
+        <a href='https://github.com/marshallshine/Snake-Game' target='_blank'>here</a> and compile and execute 
         on Windows machines with the Java SDK by running the batch file I wrote. Some of the concepts I learned 
         in this class include the basics of programming such as variables, loops, conditionals, input and output, 
         and also more advanced OOP concepts such as creating objects, inheritance, and polymorphism."
@@ -375,7 +374,7 @@
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: center;
     width: 100%;
     display: flex;
     flex-direction: row;
